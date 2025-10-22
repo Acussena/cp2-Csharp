@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acussena\\Downloads\\SistemaLoja\\SistemaLoja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|c:\\users\\acussena\\downloads\\sistemaloja\\sistemaloja\\sistemaloja\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6157784-C1E1-446B-B821-C8E11F75E14A}|SistemaLoja\\SistemaLoja.csproj|solutionrelative:sistemaloja\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acussena\\Downloads\\SistemaLoja\\SistemaLoja\\SistemaLoja\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "SistemaLoja\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\Acussena\\Downloads\\SistemaLoja\\SistemaLoja\\SistemaLoja\\ProdutoRepository.cs",
+              "RelativeToolTip": "SistemaLoja\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T00:56:41.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
